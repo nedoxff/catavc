@@ -8,6 +8,6 @@ this code is here purely for archival purposes, and may be removed from the nedo
 
 ## interface
 
-![1.png](https://github.com/nedoxff/catavc/img/1.png)
+![1.png](https://raw.githubusercontent.com/nedoxff/catavc/master/img/1.png)
 
-![2.jpg](https://github.com/nedoxff/catavc/img/2.jpg)
+![2.jpg](https://raw.githubusercontent.com/nedoxff/catavc/master/img/2.jpg)
